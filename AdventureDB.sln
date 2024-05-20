@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AdventureDB", "AdventureDB.sqlproj", "{22CC9EF8-480E-4C45-9EB2-AD93029D9E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CC9EF8-480E-4C45-9EB2-AD93029D9E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CC9EF8-480E-4C45-9EB2-AD93029D9E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CC9EF8-480E-4C45-9EB2-AD93029D9E5A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{22CC9EF8-480E-4C45-9EB2-AD93029D9E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CC9EF8-480E-4C45-9EB2-AD93029D9E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CC9EF8-480E-4C45-9EB2-AD93029D9E5A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8F76EB-F2E7-48F9-AA3E-5AC305C15E37}
+	EndGlobalSection
+EndGlobal
